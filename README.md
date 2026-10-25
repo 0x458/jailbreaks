@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Jailbreaks
 
@@ -98,6 +98,7 @@ The collection covers:
 | **Gemini 4 Argon** | [Gemini-4-Argon.md](./Gemini-4-Argon.md) | Operating policy |
 | **Mistral Large 4** | [Mistral-Large-4.md](./Mistral-Large-4.md) | Agent system prompt |
 | **Qwen 3.7** | [qwen-3.7.md](./qwen-3.7.md) | System prompt |
+| **Qwen 3.8** | [qwen-3.8.md](./qwen-3.8.md) | System prompt |
 
 ### Ollama Modelfiles
 
