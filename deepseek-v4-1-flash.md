@@ -1,10 +1,12 @@
-# DeepSeek V4.1 Flash Uncensored — Operator Brief
+# DeepSeek V4.1 Flash (Uncensored) — Operator Brief
 
-> **Target:** `deepseek-v4-1-flash-uncensored`
+> **Target:** `deepseek-v4-1-flash-uncensored` on Venice AI · the file also covers the non-abliterated `deepseek-v4-1-flash` base, with Sections 3 and 4 adjusted
 > **Host:** Venice AI (`https://api.venice.ai/api/v1`, private tier — zero prompt retention, no training on your traffic)
 > **Build:** community abliteration of DeepSeek V4.1 Flash (dealignai FP8) — 552B MoE, ~8B active prefill / ~16B active decode, FP8 e4m3fn weights with FP4 routed experts
 > **Context:** 512K · vision native · function calling supported · reasoning controllable
 > **Added:** 2026-10-26
+
+> **Naming.** Filed under the model name rather than the variant, in line with the rest of the collection. The abliterated build is what the sections below describe; on the plain base model, expect the residue line (3) to be longer and the failure modes (4) to differ.
 
 ---
 
