@@ -4,8 +4,8 @@
 
 **A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models.**
 
-![Prompts](https://img.shields.io/badge/prompts-31-4c9f70)
-![Targets](https://img.shields.io/badge/targets-25%2B-2f6f9f)
+![Prompts](https://img.shields.io/badge/prompts-32-4c9f70)
+![Targets](https://img.shields.io/badge/targets-26%2B-2f6f9f)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat&logo=github)
 ![Stars](https://img.shields.io/github/stars/togg53192-cmd/jailbreaks?style=flat&logo=github&color=yellow)
 
@@ -15,7 +15,7 @@
 
 ## About
 
-A working collection of **31 prompts targeting 25+ models**, including complete system prompts, persona definitions, workspace policies, `AGENTS.md` files, configuration blocks, and Ollama Modelfiles.
+A working collection of **32 prompts targeting 26+ models**, including complete system prompts, persona definitions, workspace policies, `AGENTS.md` files, configuration blocks, and Ollama Modelfiles.
 
 Every file is intended to be complete and paste-ready. No summaries. No partial excerpts.
 
@@ -75,6 +75,7 @@ The collection covers:
 | **DeepSeek V3** | [deepseek v3.md](./deepseek%20v3.md) | System prompt |
 | **DeepSeek V4** | [deepseek v4.md](./deepseek%20v4.md) | System prompt |
 | **DeepSeek 4.1** | [deepseek-4-1.md](./deepseek-4-1.md) | Assistant operating specification |
+| **DeepSeek V4.1 Flash Uncensored** | [deepseek-v4-1-flash-uncensored.md](./deepseek-v4-1-flash-uncensored.md) | Operator brief for the abliterated Venice build |
 
 ### Moonshot — Kimi
 
